@@ -1,0 +1,10 @@
+//INCLUIR AQUI EL CONTENIDO DEL JSON PARA QUE NUESTRO ARCHIVO MANIFEST PUEDA SER VALIDO Y TENER LA VERSION PROGRESIVA DE LA APP
+
+QUE SE NECESITA?
++Nombre
++Nombre corto
++Descripcion
++Display stand alone
++agregar el icono en el repositorio como el icono de la app
++Start url predeterminado "/"
+
